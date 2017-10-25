@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/likewise-open/FRAMGIA/ho.viet.tuan/Desktop/GlobisLab/spec/models'
+let g:netrw_dirhist_2='/home/likewise-open/FRAMGIA/ho.viet.tuan/Desktop/GlobisLab/app/views/user_tests'
+let g:netrw_dirhist_3='/home/likewise-open/FRAMGIA/ho.viet.tuan/Desktop/GlobisLab'
+let g:netrw_dirhist_4='/home/likewise-open/FRAMGIA/ho.viet.tuan/Desktop/GlobisLab/db'
+let g:netrw_dirhist_5='/home/likewise-open/FRAMGIA/ho.viet.tuan/Desktop/GlobisLab/db/migrate'
+let g:netrw_dirhist_6='/home/likewise-open/FRAMGIA/ho.viet.tuan/Desktop/GlobisLab/app/models/lesson_step'
